@@ -1,3 +1,9 @@
+/*
+  Codigão feito em NODE.JS
+  Criar listas de cachorro e pesquisar o ´porte  e idades
+  usando o FILTER
+*/
+
 console.log('============Filtro com cachorros=============')
 
 var cachorro = [
@@ -37,4 +43,4 @@ console.log('grande')
 console.log(cachorrogrande)
 console.log('======================================')
 console.log('idade')
-console.log(idadecachorro)
+console.log(idadecachorro) 
